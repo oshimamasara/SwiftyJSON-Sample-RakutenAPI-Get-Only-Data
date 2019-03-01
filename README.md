@@ -6,5 +6,5 @@
 + Swift 4.2
 + Pod 1.6.0
 
-+ [SwiftyJSON](公式https://github.com/SwiftyJSON/SwiftyJSON)
++ [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON)
 + [RakutenAPI](https://webservice.rakuten.co.jp/explorer/api/IchibaItem/Search/)
